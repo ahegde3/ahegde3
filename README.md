@@ -21,9 +21,9 @@ Connect with me at
 <span>Technology I have worked with:
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Nodejs" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Nodejs" width="80" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJs" width="55" height="55"/> 
-      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="55" height="55"/>
+       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="mongodb" width="45" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="45" height="55"/>
@@ -31,4 +31,9 @@ Connect with me at
 
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ahegde3&left_color=blue&right_color=blue)
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=ahegde3"
+    alt="gargakshit"
+  />
+</p>
