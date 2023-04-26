@@ -18,9 +18,9 @@ Connect with me at
 
 ![ahegde3's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahegde3&show_icons=true&theme=radical)
 
-<span>Technology I have worked with:
+<span>Technology I have worked with:</span>
 
-<p align="center">
+<p style="border:solid 2px black " align="center">
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" alt="Nodejs" width="80" height="55"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJs" width="55" height="55"/> 
        <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="mongodb" width="45" height="55"/>
@@ -34,6 +34,6 @@ Connect with me at
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=ahegde3"
-    alt="gargakshit"
+    alt="ahegde3"
   />
 </p>
