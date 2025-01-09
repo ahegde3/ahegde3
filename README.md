@@ -16,7 +16,7 @@ Connect with me at
 </p>
 </div>
 
-![ahegde3's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahegde3&show_icons=true&theme=radical)
+<!---![ahegde3's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahegde3&show_icons=true&theme=radical) -->
 
 <span>Technology I have worked with:</span>
 
