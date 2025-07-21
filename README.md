@@ -11,7 +11,7 @@
 
 ### Currently working on
 <ul>
-<li>Graid.ai</li>
+<li>GraidAI</li>
 <li>ResumeAI</li>
 </ul>
 
