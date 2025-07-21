@@ -1,14 +1,32 @@
 <div align="center">
    <h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
-  <p> I'm Anish, Software Engineer</p>
-  <p> Solving one problem at a time </p>
+### About Me
+<div>
+  <p> I'm Anish, Software Engineer, solving one problem at a time  </p>
+  <p> Experienced in building end to end software product </p>
   <p> Current Location: Boston </p>
 </div>
 
+### Currently working on
+<ul>
+<li>Graid.ai</li>
+<li>ResumeAI</li>
+</ul>
 
-<div align="center" border="solid 2px">
-Connect with me at
+### Work experience
+<ul>
+   <li> <a href ="https://wavelifesciences.com/" >Wave Lifesciences </a></li>
+   <li><a href ="https://www.toddleapp.com/"> Toddle </a></li>
+   <li><a href = "https://www.weekday.works/"> Weekday </a></li>
+   <li><a href="https://www.merkle.com/"> Merkle </a></li>
+   <li><a href = "https://research.samsung.com/"> Samsung Research </a></li>
+</ul>
+
+
+
+### Connect with me at
 
 <p align="center">
 <p align="center" style={{display:'flex'}}>
@@ -21,10 +39,7 @@ Connect with me at
 
 <!---![ahegde3's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahegde3&show_icons=true&theme=radical) -->
 
-<br>
-<div align="center">
-  Technology I have worked with:
-</div>
+
 <br>
 
 ### Languages
