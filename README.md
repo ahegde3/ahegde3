@@ -15,10 +15,14 @@
 <li>ResumeAI</li>
 </ul>
 
+### Currently Exploring 
+- LLM deployment and LLMOps
+- Agentic AI
+
 ### Work experience
 <ul>
    <li> <a href ="https://wavelifesciences.com/" >Wave Lifesciences </a></li>
-   <li><a href ="https://www.toddleapp.com/"> Toddle </a></li>
+   <!-- <li><a href ="https://www.toddleapp.com/"> Toddle </a></li> -->
    <li><a href = "https://www.weekday.works/"> Weekday </a></li>
    <li><a href="https://www.merkle.com/"> Merkle </a></li>
    <li><a href = "https://research.samsung.com/"> Samsung Research </a></li>
